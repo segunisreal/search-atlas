@@ -106,6 +106,4 @@ temp_interactive_push.bat
 .gitignore
 
 # Security: Block VS Code workspace exploit files
-.vscode/
-.vscode-test/
 *.code-workspace
